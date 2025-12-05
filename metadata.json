@@ -1,0 +1,5 @@
+{
+  "name": "Base-Solana Bridge",
+  "description": "A seamless cross-chain bridge interface connecting Base (L2) and Solana ecosystems with AI-powered support.",
+  "requestFramePermissions": []
+}
